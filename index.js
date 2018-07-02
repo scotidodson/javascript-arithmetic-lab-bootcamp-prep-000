@@ -15,6 +15,7 @@ function divide(a,b) {
 }
 
 function inc(n) {
+  number = n;
   number++;
 }
 
