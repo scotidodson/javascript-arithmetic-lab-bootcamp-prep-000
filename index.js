@@ -1,14 +1,9 @@
-
-
-
-
-
-
-
 function makeInt(n) {
-  parseInt(n);
+  return parseInt(n);
 }
 
 function preserveDecimal(n) {
-  parseFloat(n);
-}function add(a, b) 
+  return parseFloat(n);
+}
+
+function add(a, b) 
