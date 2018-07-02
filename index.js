@@ -15,7 +15,7 @@ function divide(a,b) {
 }
 
 function inc(n) {
-  parseInt(n++);
+  number++;
   return console.log(n);
 }
 
