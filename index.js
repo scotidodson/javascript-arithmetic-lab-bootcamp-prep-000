@@ -16,7 +16,6 @@ function divide(a,b) {
 
 function inc(n) {
   number++;
-  return console.log(n);
 }
 
 function dec(n) {
