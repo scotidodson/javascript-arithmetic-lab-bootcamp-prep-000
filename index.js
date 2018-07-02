@@ -1,4 +1,3 @@
-function add(a, b) 
 
 
 
@@ -12,4 +11,4 @@ function makeInt(n) {
 
 function preserveDecimal(n) {
   parseFloat(n);
-}
+}function add(a, b) 
